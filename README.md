@@ -2,6 +2,8 @@
 
 V. Priya, S. K. Sahoo, M. Balamurugan, S. Anurag and R. Kumar, "Maximum power point tracking for PV panels using ant colony optimization," in 2017 Innovations in Power and Advanced Computing Technologies (i-PACT), Vellore, 2017.
 
+Link to the paper: https://ieeexplore.ieee.org/document/8245004
+
 # MPPT-for-Solar-Panels
 Maximum Power Point Tracking for solar panels using Ant Colony Optimization
 
